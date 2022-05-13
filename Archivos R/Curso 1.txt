@@ -1,0 +1,29 @@
+Welcome to M001.
+
+This course is the perfect place to start if you're new to MongoDB or even if you're new to working with databases and are looking to start your exploration with MongoDB.
+
+My name is Yulia.
+
+I'm a curriculum engineer at MongoDB, and I will be guiding you through this learning experience.
+
+We will start with defining what MongoDB is and the tools that we will be using, then move on to actually working with data.
+
+Any and all software used in this course is free.
+
+You will not need to download anything in order to complete the course.
+
+We will cover how data is organized, how to query and write to the database, as well as some more advanced concepts like data modeling and indexing.
+
+This course will contain practice exercises, activities, videos, and graded assignments to help you solidify what you've learned along the way.
+
+If you get stuck on an exercise or something doesn't seem clear, reach out to our curriculum services engineers on the class dedicated discussion forums that will be linked in the notes to each lecture.
+
+The link to the course forum is already in these lecture notes right there.
+
+Make sure to search the forum before posting, to ensure that your question hasn't been addressed already.
+
+We always appreciate your feedback.
+
+To receive a proof of completion for this course, you must achieve an overall score of 65% or higher.
+
+I hope that you enjoy this course, and good luck.
